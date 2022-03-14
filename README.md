@@ -7,7 +7,7 @@
   * Flex
   * GRID
 * BEM Nested
-* Figma
+* Figma (макет можно посмотреть [здесь](https://www.figma.com/proto/1MKdP6teMJpOWqunMfEpFt/Sprint-3_-Russia-_-desktop-%2B-mobile-(Copy)?node-id=62863%3A870))
 * GIT
   * Branches
   * GitHub Pages
