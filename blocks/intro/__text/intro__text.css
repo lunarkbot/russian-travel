@@ -3,3 +3,9 @@
   line-height: 1.6;
   margin-bottom: 34px;
 }
+
+@media screen and (min-width: 768px) {
+  .intro__text {
+    margin-bottom: 33px;
+  }
+}

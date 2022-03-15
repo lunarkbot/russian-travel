@@ -8,3 +8,10 @@
   position: relative;
   top: 14px;
 }
+
+@media screen and (min-width: 768px) {
+  .header__lang-link {
+    font-size: 24px;
+    top: 20px;
+  }
+}

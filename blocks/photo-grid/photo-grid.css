@@ -4,3 +4,12 @@
   padding: 0 16px;
   margin-bottom: 64px;
 }
+
+@media screen and (min-width: 768px) {
+  .photo-grid {
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 16px;
+    padding: 0 24px;
+    margin-bottom: 88px;
+  }
+}

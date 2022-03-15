@@ -4,3 +4,9 @@
   padding: 16px 16px 0;
   margin-bottom: 48px;
 }
+
+@media screen and (min-width: 768px) {
+  .header {
+    padding: 28px 24px 0;
+  }
+}
