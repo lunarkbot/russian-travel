@@ -7,3 +7,9 @@
     margin-bottom: 88px;
   }
 }
+
+@media screen and (min-width: 1024px) {
+  .lead {
+    margin-bottom: 92px;
+  }
+}
