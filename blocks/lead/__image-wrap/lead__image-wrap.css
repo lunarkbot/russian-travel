@@ -8,3 +8,9 @@
     padding: 0 48px;
   }
 }
+
+@media screen and (min-width: 1280px) {
+  .lead__image-wrap {
+    padding: 0;
+  }
+}
