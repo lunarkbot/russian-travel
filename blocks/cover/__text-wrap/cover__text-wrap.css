@@ -1,0 +1,5 @@
+.cover__text-wrap {
+  grid-column: 1/2;
+  grid-row: 1/2;
+  z-index: 3;
+}
