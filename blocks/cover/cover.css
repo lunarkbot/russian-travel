@@ -1,25 +1,5 @@
 .cover {
-  position: relative;
-  display: grid;
-  align-items: center;
   margin-bottom: 60px;
-}
-
-.cover::before {
-  content: "";
-  display: block;
-  position: absolute;
-  top: 0;
-  left: 0;
-  bottom: 0;
-  right: 0;
-  background-color: #2a2c2f;
-  opacity: .3;
-  z-index: 2;
-}
-
-.cover:hover::before {
-  opacity: .8;
 }
 
 @media screen and (min-width: 768px) {
