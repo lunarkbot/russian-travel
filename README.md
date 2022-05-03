@@ -18,7 +18,7 @@
 
 ### Демо
 
-Посмотреть проект можно на [GitHub Pages](https://russian-travel.z-style.org)
+Посмотреть проект можно на [GitHub Pages](https://russian-travel.lunarkbot.net)
 
 ---
 
