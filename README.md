@@ -1,25 +1,16 @@
-# Проект: Путешествие по России
+# Project: Russian Travel
+## About the project
+The small two-page site (Russian and English versions) about traveling in Russia, the purpose of which was to show the ability to use semantic markup, adaptive layout, application of the [BEM nested](https://en.bem.info/methodology/filestructure/) methodology, and using CSS Flex and GRID in practice. The project is made according to the Figma layout and is designed for resolutions from 320 to 1440px+.
 
-### В проекте используется
-
-* HTML/CSS
-  * Семантическая и адаптивная верстка
-  * Flex
-  * GRID
+## Used for development:
+* HTML5/CSS
+  * Semantic and adaptive layout
+  * Flex and GRID
 * BEM Nested
-* Figma (макет можно посмотреть [здесь](https://www.figma.com/proto/1MKdP6teMJpOWqunMfEpFt/Sprint-3_-Russia-_-desktop-%2B-mobile-(Copy)?node-id=62863%3A870))
-* GIT
-  * Branches
-  * GitHub Pages
+* Figma (layout you can see [here](https://www.figma.com/proto/1MKdP6teMJpOWqunMfEpFt/Sprint-3_-Russia-_-desktop-%2B-mobile-(Copy)?node-id=62863%3A870))
 
-### О чем проект?
-
-Здесь будет проект о путешествии по России. Проект сверстан по макету Figma и рассчитан на разрешения от 320 до 1440px+
-
-### Демо
-
-Посмотреть проект можно на [GitHub Pages](https://russian-travel.lunarkbot.net)
+## Demo
+The project is available on [GitHub Pages](https://russian-travel.lunarkbot.net).
 
 ---
-
-Проект подготовлен в рамках задания на платформе [Яндекс.Практикум](https://practicum.yandex.ru/)
+The project was developed as part of a task on the platform Yandex.Practicum: [Russian](https://practicum.yandex.ru/) / [English](https://practicum.com/)
